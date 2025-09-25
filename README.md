@@ -1,6 +1,6 @@
-# AI Scheduler App
+# AI Scheduler
 
-A full-stack AI-powered task scheduler with Google Calendar integration.
+A AI-powered task scheduler with Google Calendar integration.
 
 ## Features
 
@@ -14,17 +14,9 @@ A full-stack AI-powered task scheduler with Google Calendar integration.
 
 ## Setup Instructions
 
-### 1. Configure API Keys
+ 1. Configure API Keys
 
-Edit `backend/.env` file:
-
-```env
-PERPLEXITY_API_KEY=pplx-actual-api-key-here
-GOOGLE_CREDENTIALS_FILE=credentials.json
-SECRET_KEY=your-secret-key-here
-```
-
-### 3. Running the Application
+### Running the Application
 
 **Backend:**
 ```bash
