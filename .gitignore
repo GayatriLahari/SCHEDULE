@@ -12,6 +12,10 @@ pip-log.txt
 pip-delete-this-directory.txt
 .env
 *.log
+# .gitignore
+backend/.env
+backend/.env.local
+
 
 # Google Calendar credentials
 credentials.json
