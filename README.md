@@ -29,7 +29,7 @@ SECRET_KEY=your-secret-key-here
 **Backend:**
 ```bash
 cd backend
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate 
 python app.py
 ```
 
@@ -38,8 +38,6 @@ python app.py
 cd frontend
 npm run dev
 ```
-The app will be available at http://localhost:3000
-
 ## API Endpoints
 
 - `GET /api/health` - Health check
